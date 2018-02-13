@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_tGs-4RDBEeiM7cfLWSpOQw" label="new_project" description="" language="java" technicalLabel="NEW_PROJECT" creationDate="2018-02-12T17:50:34.412+0530" author="_tGs-4hDBEeiM7cfLWSpOQw" referencedProjects="_tGs-4xDBEeiM7cfLWSpOQw" productVersion="Talend Data Integration-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/pavanTalend/new.git&quot;,&quot;login&quot;:&quot;pavantalend17@gmail.com&quot;,&quot;passwd&quot;:&quot;Tke0dwuoXvynPEUfyzd6/w==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" reference="true" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_tGs-4hDBEeiM7cfLWSpOQw" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+  <TalendProperties:ProjectReference xmi:id="_tGs-4xDBEeiM7cfLWSpOQw" project="_tGs-4RDBEeiM7cfLWSpOQw" branch="master" referencedBranch="master">
+    <referencedProject href="../CSV_TO_MYSQL_INTEGRATION/talend.project#projectReference"/>
+  </TalendProperties:ProjectReference>
+</xmi:XMI>
